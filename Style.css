@@ -1,0 +1,84 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color:rgb(226, 226, 220);
+}
+h1 {
+    font-family: Lobster, monospace;
+}
+p {
+    text-align: center ;
+}
+h5{
+    text-align: center ;
+}
+h6{
+    text-align: center ;
+}
+#section1 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2020/02/03/00/12/fiber-4814456_960_720.jpg);
+    background-size: contain;
+   
+    
+}
+.wellcome{
+    color: #8a1154;
+    font-size: 40px;
+    padding-left:60px;
+   
+    
+}
+.netlinkers {
+    font-size: 15px;
+    text-align: auto;
+    padding-left:60px;
+}
+.formulario {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+   
+}
+.larger-image {
+    width: 200px;
+    padding-left:60px;
+}
+.larger-image2 {
+    width: 150px;
+    padding-left: 240px;
+}
+.fullCard {
+    width: 345px;
+    border: 1px solid #8a1154;
+    border-radius: 10px;
+    margin: auto;
+    padding:4px;
+}
+.fullCard2 {
+    width: 645px;
+    border: 1px solid #8a1154;
+    border-radius: 10px;
+    margin: auto;
+    padding:4px;
+}
+.cardContent {
+    padding: 10px;
+}
+.cardText {
+    margin-bottom: 30px;
+    
+}
+button {
+    border-radius: 5px;
+    color: white;
+    background-color: #8a1154;
+    padding: 5px 10px 8px 10px;
+}
+
+button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+}
